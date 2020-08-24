@@ -1,2 +1,2 @@
 # Rudra
-A Intelligent C Library
+An Intelligent C Library
